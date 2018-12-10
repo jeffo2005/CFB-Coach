@@ -136,11 +136,11 @@ Akron,Matt Hanson,DL,1,6
 Akron,Dylan Meeks,DL,2,6
 Akron,Nate Stewart,WR,2,6
 Akron,Andre Williams,WR,2,6
-Akron,Van Edwards,RB,4,7
+Akron,Van Edwards,RB,4,6
 Alabama,Jonah Williams,OL,3,10
-Alabama,Miller Forristall,TE,2,8
+Alabama,Miller Forristall,TE,2,7
 Alabama,Saivion Smith,CB,3,9
-Alabama,Mac Jones,QB,1,8
+Alabama,Mac Jones,QB,1,5
 Alabama,Anfernee Jennings,LB,3,9
 Alabama,Joshua McMillon,LB,3,8
 Alabama,Shyheim Carter,CB,3,8
@@ -154,8 +154,8 @@ Alabama,Quinnen Williams,DL,2,8
 Alabama,Phidarian Mathis,DL,1,8
 Alabama,Cameron Latu,LB,1,8
 Alabama,Nigel Knott,CB,2,8
-Alabama,Najee Harris,RB,2,9
-Alabama,Josh Jacobs,RB,3,9
+Alabama,Najee Harris,RB,2,8
+Alabama,Josh Jacobs,RB,3,8
 Alabama,Brian Robinson,RB,2,8
 Alabama,Damien Harris,RB,4,9
 Alabama,Christopher Allen,LB,2,8
@@ -167,41 +167,41 @@ Alabama,Christian Barmore,DL,1,8
 Alabama,Christian Miller,LB,4,8
 Alabama,Mack Wilson,LB,3,9
 Alabama,Dylan Moses,LB,2,9
-Alabama,Henry Ruggs,WR,2,8
+Alabama,Henry Ruggs,WR,2,9
 Alabama,Alex Leatherwood,OL,2,9
-Alabama,Jalen Hurts,QB,3,9
+Alabama,Jalen Hurts,QB,3,8
 Alabama,Daniel Wright,S,2,8
 Alabama,Markail Benton,LB,1,8
 Alabama,Ben Davis,LB,2,8
 Alabama,Tevita Musika,DL,3,8
-Alabama,Joseph Bulovas,K,1,8
+Alabama,Joseph Bulovas,K,1,7
 Alabama,Eyabi Anoma,LB,1,8
 Alabama,Patrick Surtain,CB,1,8
-Alabama,Irv Smith,TE,3,8
-Alabama,Tua Tagovailoa,QB,2,9
+Alabama,Irv Smith,TE,3,7
+Alabama,Tua Tagovailoa,QB,2,10
 Alabama,Stephon Wynn,DL,1,8
-Alabama,Kedrick James,TE,2,8
+Alabama,Kedrick James,TE,2,6
 Alabama,Isaiah Buggs,DL,4,9
 Alabama,Ross Pierschbacher,OL,4,10
 Alabama,Chris Owens,OL,2,8
-Alabama,Derek Kief,WR,4,8
+Alabama,Derek Kief,WR,4,7
 Alabama,Johnny Dwight,DL,4,8
 Alabama,LaBryan Ray,DL,2,8
 Alabama,Josh Casher,OL,4,8
 Alabama,Jamey Mosley,LB,4,8
 Alabama,Ale Kaho,LB,1,8
-Alabama,Hale Hentges,TE,4,9
+Alabama,Hale Hentges,TE,4,8
 Alabama,Jedrick Wills,OL,2,9
 Alabama,Jared Mayden,S,3,8
 Alabama,Richie Petitbon,OL,3,8
 Alabama,Devonta Smith,WR,2,8
 Alabama,Major Tennison,TE,2,8
 Alabama,Jerry Jeudy,WR,2,9
-Alabama,Chadarius Townsend,WR,1,8
-Alabama,Tyrell Shavers,WR,1,8
+Alabama,Chadarius Townsend,WR,1,5
+Alabama,Tyrell Shavers,WR,1,2
 Alabama,Deionte Thompson,S,3,8
 Alabama,Kyriq McDonald,S,1,8
-Alabama,Jaylen Waddle,WR,1,8
+Alabama,Jaylen Waddle,WR,1,9
 Alabama,Trevon Diggs,CB,3,8
 Alabama,Jalyn Armour-Davis,CB,1,8
 Alabama,Xavian Marks,WR,4,8
@@ -4486,22 +4486,22 @@ Ohio,Cole Baker,DL,3,6
 Ohio,Jamison Collier,S,1,6
 Ohio State,Dre'Mont Jones,DL,3,9
 Ohio State,Josh Myers,OL,1,8
-Ohio State,Damon Arnette,CB,3,9
-Ohio State,Johnnie Dixon,WR,4,9
-Ohio State,Malik Harrison,LB,3,8
-Ohio State,Tuf Borland,LB,2,8
-Ohio State,Wyatt Davis,OL,1,8
-Ohio State,Robert Landers,DL,3,8
-Ohio State,Dallas Gant,LB,1,8
-Ohio State,Jonathon Cooper,DL,3,9
-Ohio State,Tyreke Johnson,CB,1,8
-Ohio State,KVaughan Pope,LB,1,8
-Ohio State,Teradja Mitchell,LB,1,8
-Ohio State,Isaiah Pryor,S,2,8
+Ohio State,Damon Arnette,CB,3,8
+Ohio State,Johnnie Dixon,WR,4,8
+Ohio State,Malik Harrison,LB,3,9
+Ohio State,Tuf Borland,LB,2,7
+Ohio State,Wyatt Davis,OL,1,7
+Ohio State,Robert Landers,DL,3,9
+Ohio State,Dallas Gant,LB,1,6
+Ohio State,Jonathon Cooper,DL,3,7
+Ohio State,Tyreke Johnson,CB,1,6
+Ohio State,KVaughan Pope,LB,1,7
+Ohio State,Teradja Mitchell,LB,1,6
+Ohio State,Isaiah Pryor,S,2,7
 Ohio State,Sean Nuernberger,K,4,9
 Ohio State,J.K. Dobbins,RB,2,9
-Ohio State,Demetrius Knox,OL,4,9
-Ohio State,CJ Saunders,WR,3,8
+Ohio State,Demetrius Knox,OL,4,8
+Ohio State,CJ Saunders,WR,3,6
 Ohio State,Malcolm Pridgeon,OL,4,8
 Ohio State,Nicholas Petit-Frere,OL,1,8
 Ohio State,Tyler Friday,DL,1,8
@@ -4515,7 +4515,7 @@ Ohio State,Haskell Garrett,DL,2,8
 Ohio State,Mike Weber,RB,3,9
 Ohio State,Jaelen Gill,RB,1,8
 Ohio State,Justin Hilliard,LB,3,8
-Ohio State,Dwayne Haskins,QB,2,9
+Ohio State,Dwayne Haskins,QB,2,10
 Ohio State,Keandre Jones,LB,3,8
 Ohio State,Luke Farrell,TE,2,8
 Ohio State,Isaiah Prince,OL,4,9
